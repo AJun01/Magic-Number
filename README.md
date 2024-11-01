@@ -12,7 +12,7 @@ A simple guessing game built with HTML, JavaScript, and Bootstrap. In this game,
 
 ## Preview
 
-Add a screenshot of the game interface here to show the basic layout and balloon animation.
+![Loan Application Form Preview](assets/preview.jpg)
 
 ## Installation
 
